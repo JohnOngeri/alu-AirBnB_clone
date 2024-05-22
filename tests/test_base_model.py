@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 # Defines unittests for models/base_model.py.
 #
@@ -6,7 +5,6 @@
 #     TestBaseModel_instantiation
 #     TestBaseModel_save
 #     TestBaseModel_to_dict
-
 import os
 import models
 import unittest
